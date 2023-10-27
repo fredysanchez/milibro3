@@ -1,4 +1,8 @@
-# Bienvenidos a mi  Jupyter Book
+# Mi  Jupyter Book | Desarrollo Web
 
 ```{tableofcontents}
+```
+
+```{note}
+Una nota
 ```
