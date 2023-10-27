@@ -3,12 +3,11 @@
 ```{note}
 Aplique los conceptos de página web estática para crear una a través del servicio de GitHubPages.
 ```
-### <center>  Contenidos del sitio  <center> 
-## <center> 
+###   Contenidos del sitio
 ```{tableofcontents}
 ```  
-## <center> 
+ 
 
 ## <center> ![Modelo_Proceso.png](jb.png) <center>
 
-## <center> Github [Github](https://github.com/fredysanchez/milibro). <center>
+## <center> [Github](https://github.com/fredysanchez/milibro)<center>
