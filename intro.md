@@ -2,7 +2,4 @@
 
 ```{tableofcontents}
 ```
-
-```{note}
-Una nota
-```
+![Modelo_Proceso.png](jb.png)
