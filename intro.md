@@ -1,9 +1,11 @@
-# Jupyter Book 
+# <center>Jupyter Book <center>
 
 ```{note}
-Aplique los conceptos de página web estática para crear una a través del servicio de GitHubPages - AE1
+Aplique los conceptos de página web estática para crear una a través del servicio de GitHubPages.
 ```
-## <center> ![Modelo_Proceso.png](jb.png) <center>
-	
+## Contenidos del sitio
 ```{tableofcontents}
 ```
+
+## <center> ![Modelo_Proceso.png](jb.png) <center>
+
